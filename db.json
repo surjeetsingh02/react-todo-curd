@@ -1,15 +1,15 @@
 {
   "users": [
     {
-      "name": "Sagar",
-      "username": "sagar",
-      "email": "sagdddar@gmail.com",
+      "name": "Surjeet Singh",
+      "username": "surjeet123",
+      "email": "info.surjeetsingh02@gmail.com",
       "id": 1
     },
     {
-      "name": "Sagar",
-      "username": "sagar",
-      "email": "as@gmail.com",
+      "name": "Excellence Technosoft Pvt Ltd",
+      "username": "Excellence_Technosoft_Pvt_Ltd",
+      "email": "Excellence_Technosoft_Pvt_Ltd@gmail.com",
       "id": 2
     }
   ]
